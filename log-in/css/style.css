@@ -1,0 +1,28 @@
+h1 {
+    font-size: 30px;
+    color: rgb(201, 19, 34);
+    font-style: oblique;
+}
+
+label {
+    background-color: rgb(190, 139, 27);
+}
+
+#userLabel {
+    font-size: 20px;
+    font-style: oblique;
+}
+
+#passLabel {
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.labelClass {
+    color:rgb(128, 8, 14)
+    font-style: oblique;
+}
+
+body {
+    background-color: rgb(204, 160, 94);
+}
