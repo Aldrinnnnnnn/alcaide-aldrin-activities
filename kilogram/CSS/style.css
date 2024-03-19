@@ -1,0 +1,219 @@
+body{
+    background-color:antiquewhite;
+}
+
+.kilogram {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    top: 0;
+    background-color: rgb(143, 12, 12);
+    color: white;
+    padding: 10px;
+    border: 5px solid lightblue;
+    z-index: 999;
+}
+
+.Home {
+    position: fixed;
+    left: -5px;
+    width: 300px;
+    top: 90px;
+    height: 90px;
+    background-color: rgb(29, 158, 87);
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid lightblue;
+}
+
+.Search {
+    position: fixed;
+    left: -5px;
+    width: 300px;
+    top: 200px;
+    height: 90px;
+    background-color: rgb(39, 147, 167);
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid lightblue;
+}
+
+.Explore {
+    position: fixed;
+    left: -5px;
+    width: 300px;
+    top: 310px;
+    height: 90px;
+    background-color: rgb(31, 23, 110);
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid lightblue;
+}
+
+.Reels {
+    position: fixed;
+    left: -5px;
+    width: 300px;
+    top: 410px;
+    height: 90px;
+    background-color: rgb(207, 171, 54);
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid lightblue;
+}
+
+.Messages {
+    position: fixed;
+    left: -5px;
+    width: 300px;
+    top: 520px;
+    height: 90px;
+    background-color: rgb(134, 38, 153);
+    color: rgb(255, 255, 255);
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid lightblue;
+}
+
+.chaka1 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+.chaka2 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+
+.chaka3 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+
+.chaka4 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+.chaka5 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+.chaka6 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+.chaka7 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+.chaka8 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+.chaka9 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+.chaka10 {
+    position: relative;
+    left: 250px;
+    right: 200px;
+    top: 20px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(140, 140, 163);
+    color: white;
+    margin: 150px;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+
+img{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}

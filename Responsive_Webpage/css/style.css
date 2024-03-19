@@ -1,0 +1,66 @@
+body {
+    padding: 20px;
+    color: #a16317;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+p {
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 15px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background: orange;
+    }
+    p {
+        font-size: 12px;
+    }
+    
+    h1 {
+        font-size: 12px;
+    } 
+    img {
+        content: url('image/chaka1');
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background: rgb(172, 169, 11);
+    }
+    p {
+        font-size: 18px;
+    }
+    
+    h1 {
+        font-size: 18px;
+    } 
+    img {
+        content: url('image/chaka2');
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        background: orange;
+    }
+    p {
+        font-size: 28px;
+    }
+    
+    h1 {
+        font-size: 28px;
+    } 
+    img {
+        content: url('image/chaka3.jpg');
+    }
+}

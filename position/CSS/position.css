@@ -1,0 +1,54 @@
+.static {
+    position: static;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid lightblue;
+}
+
+.relative {
+    position: relative;
+    left: 0;
+    top: 0;
+    background-color: blue;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid lightblue;
+}
+
+.absolute {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: auto;
+    height: auto;
+    background-color: blue;
+    color: white;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
+
+.fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+    color: white;
+    background-color: blue;
+    width:  100px;
+    padding: 10px;
+}
+
+.syicky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    background-color: blue;
+    color: white;
+    border: 5px solid lightblue;
+    padding: 10px;
+}
