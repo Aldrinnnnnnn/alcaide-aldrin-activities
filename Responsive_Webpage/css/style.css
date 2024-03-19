@@ -1,7 +1,8 @@
 body {
     padding: 20px;
-    color: #a16317;
+    color: rgb(255, 255, 255);
     text-align: center;
+
 }
 
 img {
@@ -9,58 +10,59 @@ img {
     height: 500px;
 }
 
-p {
-    font-size: 15px;
-}
-
-h1 {
-    font-size: 15px;
-}
-
 @media only screen and (max-width: 600px) {
+    body {
+        background: red;
+    }
+
+    h1 {
+        font-size: 12px;
+    }
+
+
+}
+
+@media only screen and (min-width: 600px) {
     body {
         background: orange;
     }
-    p {
-        font-size: 12px;
-    }
-    
+
+
+
     h1 {
-        font-size: 12px;
-    } 
-    img {
-        content: url('image/chaka1');
+        font-size: 20px;
     }
+
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 768px) {
     body {
-        background: rgb(172, 169, 11);
+        background: yellow;
     }
-    p {
-        font-size: 18px;
-    }
-    
+
     h1 {
-        font-size: 18px;
-    } 
-    img {
-        content: url('image/chaka2');
+        font-size: 30px;
     }
+
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 992px) {
     body {
-        background: orange;
+        background: green;
     }
-    p {
-        font-size: 28px;
-    }
-    
+
     h1 {
-        font-size: 28px;
-    } 
-    img {
-        content: url('image/chaka3.jpg');
+           font-size: 50px;
+    }
+
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        background: blue;
+    }
+
+    h1 {
+        font-size: 100px;
     }
 }
